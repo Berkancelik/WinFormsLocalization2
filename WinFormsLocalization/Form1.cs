@@ -40,5 +40,11 @@ namespace WinFormsLocalization
             this.Controls.Clear();
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Deneme deneme = new Deneme();
+            deneme.Show();
+        }
     }
 }

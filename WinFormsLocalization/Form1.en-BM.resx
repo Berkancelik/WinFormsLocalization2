@@ -128,6 +128,9 @@
   <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
     <value>137, 62</value>
   </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>Deneme sayfası </value>
+  </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>19, 58</value>
   </data>
@@ -202,8 +205,5 @@
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>1038, 413</value>
-  </data>
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
   </data>
 </root>
